@@ -27,10 +27,10 @@
 # Пример работы программы
 
 Изображение с шумом:
-![alt_text] (ffile.bmp)
+![alt text](ffile.bmp)
 
 Изображение после CPU:
-![alt_text] (After_cpu.bmp)
+![alt text](After_cpu.bmp)
 
 Изображение после GPU:
-![alt_text] (After_gpu.bmp)
+![alt text](After_gpu.bmp)
